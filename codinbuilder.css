@@ -1,13 +1,3 @@
-/* Custom style for Jnekins */
-.logo img {
-content:url(“https://prabhucdt.github.io/codinbuilder/codinbuilder.png”);
-/*change the path to your logo path*/
-}
-
-#jenkins-name-icon {
-display: none;
-}
-
 .logo:after {
 content: ‘Codinbuilder’;
 font-weight: bold;
