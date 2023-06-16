@@ -1,0 +1,20 @@
+/* Custom style for Jnekins */
+.logo img {
+content:url(“https://prabhucdt.github.io/codinbuilder/codinbuilder.png”);
+/*change the path to your logo path*/
+}
+
+#jenkins-name-icon {
+display: none;
+}
+
+.logo:after {
+content: ‘Codinbuilder’;
+font-weight: bold;
+font-size: 40px;
+font-family:”Brush Script MT”, cursive;
+margin-left: 200px;
+margin-right: 12px;
+color: Aqua;
+line-height: 40px;
+}
